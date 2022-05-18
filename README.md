@@ -1,3 +1,3 @@
-# Practice_LandingPage
+# Practice_StartUpLandingPage
 
 Build with HTML, CSS + Bootstrap
